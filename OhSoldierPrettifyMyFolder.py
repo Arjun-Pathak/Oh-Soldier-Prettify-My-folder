@@ -13,7 +13,7 @@ def leavewords(filename):
             else:
                 pass
             lst.append(a)
-    return lst
+#     return lst
 
 def soldier(pathname, filen, *ext):
     """
