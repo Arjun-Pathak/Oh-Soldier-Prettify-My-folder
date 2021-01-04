@@ -1,2 +1,2 @@
-# Oh-Soldier-Pretiffy-My-folder
+# Oh-Soldier-Prettify-My-folder
 This python program will modify your directory..
